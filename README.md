@@ -1,17 +1,17 @@
-# A+ IP & Subnet Lab
+# A+ Networking Help-Desk Simulator
 
-A beginner-friendly static website for introducing the IPv4/subnet concepts most useful in entry-level CompTIA A+ networking and troubleshooting instruction.
+Beginner-friendly static website for CompTIA A+ networking practice.
 
-## Student focus
-- IPv4 address, subnet mask, and default gateway
-- DHCP vs. static configuration
-- APIPA / 169.254.x.x troubleshooting clue
-- Private IPv4 ranges
-- Recognizing 255.255.255.0 as /24
-- Determining whether simple /24 settings make sense
-- Basic switch/router roles
+## Included
+- A+ focused IPv4, /24, DHCP, APIPA, gateway, DNS, and physical-link review
+- Animated "packet path" warm-up
+- Two embedded Professor Messer A+ 220-1201 videos (internet required)
+- 10 visual troubleshooting tickets
+- Knowledge check quiz
+- No build tools or server required
 
-## Visual Network Builder
-Three levels: build a basic wired LAN, configure a workstation on a /24, and troubleshoot an APIPA/DHCP scenario.
+## Run
+Open `index.html` in a modern browser.
 
-Open `index.html` in any modern browser. No server or dependencies are required. It is suitable for GitHub Pages.
+## GitHub Pages
+Upload `index.html` to a repository and enable GitHub Pages. External videos require internet access; all simulations work locally.
